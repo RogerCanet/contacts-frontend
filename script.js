@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080/api/contacts"; // Cambia si lo subes online
+const API_URL = "https://contacts-backend-qcyk.onrender.com/api/contacts"; // Cambia si lo subes online
 const contactsList = document.getElementById("contacts");
 const form = document.getElementById("contactForm");
 const refreshBtn = document.getElementById("refreshBtn");
